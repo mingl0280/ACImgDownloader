@@ -1,0 +1,10 @@
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\bin\Debug\ACFPGDownloader.exe.config
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\bin\Debug\ACFPGDownloader.exe
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\bin\Debug\ACFPGDownloader.pdb
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\bin\Debug\ACFPGDownloader.xml
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.Form1.resources
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.Resources.resources
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.vbproj.GenerateResource.Cache
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.exe
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.xml
+H:\vs2012\vb.net\ACFPGDownloader\ACFPGDownloader\obj\Debug\ACFPGDownloader.pdb

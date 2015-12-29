@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ACFPGDownloader
+</name>
+</assembly>
+<members>
+<member name="P:ACFPGDownloader.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ACFPGDownloader.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ACFPGDownloader.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ACFPGDownloader.Form1.GetExtensionByByte(System.Byte[])">
+	<summary>
+ Judge Extension by Header section
+ </summary>
+	<param name="input"></param>
+	<returns></returns>
+	<remarks>
+ JPG: FF D8
+ TGA: 00 00 02 00 00 |OR| 00 00 10 00 00
+ PNG: 89 50 4E 47 0D 0A 1A 0A
+ GIF: 47 49 46 38 39 61 |OR| 47 49 46 38 37 61
+ BMP: 42 4D
+ PCX: 0A
+ TIF: 4D 4D |OR| 49 49
+ ICO: 00 00 01 00 01 00 20 20
+ CUR: 00 00 02 00 01 00 20 20
+ IFF: 46 4F 52 4D
+ ANI: 52 49 46 46
+ </remarks>
+</member>
+</members>
+</doc>
